@@ -1,0 +1,2 @@
+# projekt-dcs
+szamkitalalo jatek
